@@ -1,1 +1,1 @@
-# Automated-Development-of-Heuristics-using-Genetic-Programming-for-the-TSP
+# Automated development of heuristics using genetic programming for the TSP
